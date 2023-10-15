@@ -1,1 +1,1 @@
-# Simulations with Erd\H{o}s-R\'enyi Graphs
+# Simulations with Erd&oumls-R\'enyi Graphs

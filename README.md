@@ -6,3 +6,6 @@ This GitHub repository contains the codes for experiments presented in our paper
 * Experiments with real data are provided in [Data/HIV Transmission Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/HIV%20Transmission%20Network) for the HIV Transmission Study and in [Data/PloBlogs Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/PolBlogs%20Network) for the study with Political Blogs Network.
 
 Detailed instructions about the experiments can be found in the corresponding folders.
+
+## Requirements
+* `R 4.2.2` 

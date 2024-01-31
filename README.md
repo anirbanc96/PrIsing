@@ -7,6 +7,7 @@ This GitHub repository contains the codes for experiments presented in our paper
 * Additional Experiments in Supplement:
   * Codes for Figure $13(a)$ is presented in [Codes/MSEvsEPS.R](https://github.com/anirbanc96/PrIsing/blob/main/Data/HIV%20Transmission%20Network/Codes/MSEvsEPS.R) file, and corresponding results in [Results/MSEvsEpsilon/Social Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/HIV%20Transmission%20Network/Results/MSEvsEpsilon/Social%20Network) folder.
   * Codes for Figure $13(b)$ is presented in [Codes/MSEvsEPS.R](https://github.com/anirbanc96/PrIsing/blob/main/Data/PolBlogs%20Network/Code/MSEvsEPS.R) file, and corresponding results in [Results/MSEvsEpsilon](https://github.com/anirbanc96/PrIsing/tree/main/Data/PolBlogs%20Network/Results/MSEvsEpsilon) folder.
+  * Codes for Figure $12$ are given in [Simulations/OverEpsilonMSE/Codes/BodyNew.R](https://github.com/anirbanc96/PrIsing/blob/main/Simulations/OverEpsilonMSE/Codes/BodyNew.R) file, and corresponding results in [Simulations/OverEpsilonMSE/Results](https://github.com/anirbanc96/PrIsing/tree/main/Simulations/OverEpsilonMSE/Results) folder.
 
 Detailed instructions about the experiments can be found in the corresponding folders.
 

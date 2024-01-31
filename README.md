@@ -4,7 +4,8 @@ This GitHub repository contains the codes for experiments presented in our paper
 
 * Experiments in the simulation section are provided in the [Simulations](https://github.com/anirbanc96/PrIsing/tree/main/Simulations) folder.
 * Experiments with real data are provided in [Data/HIV Transmission Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/HIV%20Transmission%20Network) for the HIV Transmission Study and in [Data/PolBlogs Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/PolBlogs%20Network) for the study with Political Blogs Network.
-
+* Additional Experiments in Supplement:
+  * Codes for Figure $12(a)$ is presented in [Codes/MSEvsEPS.R](https://github.com/anirbanc96/PrIsing/blob/main/Data/HIV%20Transmission%20Network/Codes/MSEvsEPS.R) folder, and corresponding results in [Results/MSEvsEpsilon/Social Network](https://github.com/anirbanc96/PrIsing/tree/main/Data/HIV%20Transmission%20Network/Results/MSEvsEpsilon/Social%20Network) folder.
 Detailed instructions about the experiments can be found in the corresponding folders.
 
 # Requirements
